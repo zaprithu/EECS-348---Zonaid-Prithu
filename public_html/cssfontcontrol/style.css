@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#c9eeeea9;
+}
+.dummypara{
+    float:inline-start;
+    width: fit-content;
+    margin-top: 1%;
+    margin-left: 1%;
+    padding: 25px;
+    background-color:#b8dbd9;
+    border-radius: 25px;
+}
+.return{
+    margin-top: 1%;
+    margin-left: 2.8%;
+}
